@@ -1,0 +1,6 @@
+{
+  "name": "Dharwad Krishi Plan - Agricultural & Mandi Intelligence",
+  "description": "Comprehensive agricultural planning report, APMC mandi price intelligence, and 3D visual decision platform for Dharwad district, Karnataka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
